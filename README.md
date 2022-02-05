@@ -1,2 +1,2 @@
 # ahg-http_backend
-https://coursar.herokuapp.com/
+https://git.heroku.com/coursar.git
