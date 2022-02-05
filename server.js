@@ -75,7 +75,7 @@ exports.start = async () => {
     http.createServer(app.callback()).listen(port);
     console.log(`The server is running on port ${port}`);
     console.log('http://localhost:3000')
-    console.log('https://coursar.herokuapp.com');
+    console.log('https://git.heroku.com/coursar.git');
   }
   catch (err) {
     console.log(err);
